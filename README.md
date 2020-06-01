@@ -1,6 +1,6 @@
 ## Person Fall Detection using OpenCV
 
-### Version 0
+## Version 0
 
 #### Getting the video:
 * The program gets the video from the source or path which is passed to it.
@@ -40,9 +40,9 @@
 * Far too simple model for recognition and doesn't work for all test cases (especially when there are objects in the background).
 
 
-### Version 1
+## Version 1
 
-## Person Fall Detection using OpenCV
+
 
 ### Fall Detection v1 (Specifics to v1)
 
