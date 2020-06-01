@@ -1,7 +1,3 @@
-# Patient-Fall-Detection-System
-Patient Monitoring System to detect fall using OpenCV
-
-### Version 0 
 ## Person Fall Detection using OpenCV
 
 ### Version 0
