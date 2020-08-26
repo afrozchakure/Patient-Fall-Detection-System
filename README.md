@@ -166,3 +166,8 @@
 * This is probably a better way to detect if a person needs help than detecting when the person fall. 
 * In a real situation the time period would be set around 2 minutes if the person is on the floor. 
 * For the bed there could be a limit of 12 hours.
+
+### References
+Thanks to the amazing Repositories by:
+1. @EikeSans (version - 0) - https://github.com/EikeSan/video-fall-detection
+2. @infr (version - 1, version - 2)-  https://github.com/infr/falldetector-public
