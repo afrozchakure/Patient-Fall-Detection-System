@@ -1,5 +1,12 @@
 ## Person Fall Detection using OpenCV
 
+[![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Patient-Fall-Detection-System?color=green&style=for-the-badge)](https://github.com/afrozchakure/Python-Games/stargazers)
+[![GitHub license](https://img.shields.io/github/license/afrozchakure/Patient-Fall-Detection-System?color=blue&style=for-the-badge)](https://github.com/afrozchakure/Patient-Fall-Detection-System/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/afrozchakure/Patient-Fall-Detection-System?color=orange&style=for-the-badge)](https://github.com/afrozchakure/Patient-Fall-Detection-System/network)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Patient-Fall-Detection-System?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/afrozchakure/Patient-Fall-Detection-System?color=yellowgreen&style=for-the-badge)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/afrozchakure/Patient-Fall-Detection-System?color=red&style=for-the-badge)](https://badges.pufler.dev)
+
 ## 1. Version 0
 
 #### Getting the video:
