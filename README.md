@@ -1,9 +1,10 @@
 ## Person Fall Detection using OpenCV
 
-[![GitHub license](https://img.shields.io/github/license/afrozchakure/Patient-Fall-Detection-System?color=blue&style=social)](https://github.com/afrozchakure/Patient-Fall-Detection-System/blob/master/LICENSE)
-[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Patient-Fall-Detection-System?color=blueviolet&style=social)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/afrozchakure/Patient-Fall-Detection-System?color=yellowgreen&style=social)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/afrozchakure/Patient-Fall-Detection-System?color=red&style=social)](https://badges.pufler.dev)
+[![GitHub license](https://img.shields.io/github/license/afrozchakure/Patient-Fall-Detection-System?color=blue&style=for-the-badge)](https://github.com/afrozchakure/Patient-Fall-Detection-System/blob/master/LICENSE)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Patient-Fall-Detection-System?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/afrozchakure/Patient-Fall-Detection-System?color=yellowgreen&style=for-the-badge)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/afrozchakure/Patient-Fall-Detection-System?color=red&style=for-the-badge)](https://badges.pufler.dev)
+
 
 ## 1. Version 0
 
