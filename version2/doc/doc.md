@@ -1,23 +1,4 @@
-## Person Fall Detection using OpenCV
-
-#### Fall Detection v2
-
-* The minimum allowed size of bounding boxes can be set in the settings so that minimal objects won't count as persons in the scene. 
-* If a person suffers from a fall, this does not yet trigger the alarm but by lying on the floor not moving enough will start an alarm counter. 
-* The system will raise an alarm if the person doesn't move or hasn't moved enough till the set threshold.
-* The various settings can be controlled using Keys like 0-9, 'o', '+' and 'p'.
-* If it detects a fall, it will form a cross over the frame to make it easier to detect where the person fell from the bed.
-
-#### Features of v2 program
-
-* Person not moving alert
-* Multiple person detection
-* Ability to adjust detecting settings live
-* Basic automatic handler for light condition change
-* Ability to push information to a webservice
-* Current detection time period is 50 frames (~10 seconds)
-
-#### Version-2 files
+## Version-2 files
 
 1. **main.py** - is the main loop. This main loop starts the software and keeps it running while calling different functions in the video class.
 
@@ -32,7 +13,7 @@
 
 6. **settings.py** - __Settings class__ - includes all the settings that can be modified in the system. Some of these settings can be changed on the fly but some are static when the program runs. This file includes settings for the following things:
 
-#### Set of options in Settings:
+## Set of options in Settings:
 1. **Debug** - Debuggin on or off
 2. **Source** - Camera source
 3. **BsMethod** - Backgrounding method listed in bs.py
@@ -52,13 +33,3 @@
 18. **movementTime** - Alarm count threshold
 19. **location** - Location of the camera node, will be sent with the alarm
 20. **phone** - Phone number of the resident
-
-#### Additional steps:
-* Appropriate thresholds must be set for the bed.
-
-#### Setting of Appropriate thresholds
-* The program detects if the person is not moving for a time period. 
-* This is probably a better way to detect if a person needs help than detecting when the person fall. 
-* In a real situation the time period would be set around 2 minutes if the person is on the floor. 
-* For the bed there could be a limit of 12 hours.
-
